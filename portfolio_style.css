@@ -1,0 +1,37 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #F1EADA;
+  color: #223030;
+  margin: 0;
+  padding: 2rem;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  background-color: #CEC1A8;
+  color: #584738;
+  padding: 2rem;
+}
+
+h2 {
+  font-family: Helvetica, sans-serif;
+  background-color: #AAA396;
+  color: #584738;
+  padding: 2rem;
+}
+
+a {
+  color: #EAC3BF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #474329;
+  text-decoration: none;
+}
+
+section {
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+}
