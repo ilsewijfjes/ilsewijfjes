@@ -2,7 +2,6 @@ body {
   font-family: Georgia, serif;
   background-color: #F1EADA;
   color: #223030;
-  margin: 0;
   padding: 2rem;
 }
 
@@ -14,13 +13,14 @@ h1 {
 
 h2 {
   font-family: Helvetica, sans-serif;
+  opacity: 0.8
   color: #584738;
   padding: 2rem;
 }
 
 h3 {
   font-family: Helvetica, sans-serif;
-  opacity: 0.7;
+  opacity: 0.6;
   color: #584738;
   padding: 2rem;
 }
@@ -34,7 +34,7 @@ h4 {
 
 h5 {
   font-family: Helvetica, sans-serif;
-  opacity: 0.1;
+  opacity: 0.2;
   color: #584738;
   padding: 2rem;
 }
