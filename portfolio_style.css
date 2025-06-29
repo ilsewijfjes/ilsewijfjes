@@ -49,6 +49,10 @@ a:hover {
   text-decoration: none;
 }
 
+p {
+  padding: 2rem;
+}  
+
 section {
   margin-bottom: 40px;
   padding-bottom: 20px;
