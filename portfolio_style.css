@@ -8,35 +8,30 @@ body {
 h1 {
   font-family: Helvetica, sans-serif;
   color: #584738;
-  padding: 2rem;
 }
 
 h2 {
   font-family: Helvetica, sans-serif;
   opacity: 0.8
   color: #584738;
-  padding: 2rem;
 }
 
 h3 {
   font-family: Helvetica, sans-serif;
   opacity: 0.6;
   color: #584738;
-  padding: 2rem;
 }
 
 h4 {
   font-family: Helvetica, sans-serif;
   opacity: 0.4;
   color: #584738;
-  padding: 2rem;
 }
 
 h5 {
   font-family: Helvetica, sans-serif;
   opacity: 0.2;
   color: #584738;
-  padding: 2rem;
 }
 
 a {
@@ -54,6 +49,7 @@ p {
 }  
 
 section {
+  background-color: #D8DACA
   margin-bottom: 40px;
   padding-bottom: 20px;
 }
