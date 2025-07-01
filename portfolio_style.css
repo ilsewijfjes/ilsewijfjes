@@ -45,11 +45,12 @@ a:hover {
 }
 
 p {
-  padding: 2rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
 }  
 
 section {
-  background-color: #D8DACA
+  background-color: #D8DACA;
   margin-bottom: 40px;
   padding-bottom: 20px;
 }
